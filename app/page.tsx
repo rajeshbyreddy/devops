@@ -36,7 +36,7 @@ export default function Home() {
         {/* Hero Section */}
         <section className="flex max-w-5xl flex-col items-center text-center">
           <div className="mb-6 rounded-full border border-white/10 bg-white/5 px-4 py-2 text-sm text-zinc-300 backdrop-blur">
-            ✨ Built with Next.js + Tailwind CSS
+            ✨ Built with Next.js + Tailwind CSS V1.0.0
           </div>
 
           <h1 className="max-w-4xl text-5xl font-bold leading-tight tracking-tight sm:text-7xl">
